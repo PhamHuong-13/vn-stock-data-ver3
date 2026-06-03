@@ -1,0 +1,125 @@
+{
+  "latest_date": "2026-06-02",
+  "metrics": {
+    "VCB": {
+      "ticker": "VCB",
+      "close_first": 60.7,
+      "close_last": 61.6,
+      "return_30d": 1.48,
+      "volatility": 1.43,
+      "trend": "Tăng",
+      "slope": 0.1731,
+      "volume_trend": -43.84,
+      "sharpe": 1.04,
+      "data_points": 22
+    },
+    "VIC": {
+      "ticker": "VIC",
+      "close_first": 212.0,
+      "close_last": 204.9,
+      "return_30d": -3.35,
+      "volatility": 1.87,
+      "trend": "Giảm",
+      "slope": -0.6726,
+      "volume_trend": -27.21,
+      "sharpe": -1.79,
+      "data_points": 22
+    },
+    "VHM": {
+      "ticker": "VHM",
+      "close_first": 142.0,
+      "close_last": 150.8,
+      "return_30d": 6.2,
+      "volatility": 3.52,
+      "trend": "Đi ngang",
+      "slope": -0.0275,
+      "volume_trend": -13.38,
+      "sharpe": 1.76,
+      "data_points": 22
+    },
+    "HPG": {
+      "ticker": "HPG",
+      "close_first": 24.64,
+      "close_last": 23.7,
+      "return_30d": -3.81,
+      "volatility": 0.85,
+      "trend": "Đi ngang",
+      "slope": -0.0407,
+      "volume_trend": -24.34,
+      "sharpe": -4.47,
+      "data_points": 22
+    },
+    "TCB": {
+      "ticker": "TCB",
+      "close_first": 32.86,
+      "close_last": 31.9,
+      "return_30d": -2.92,
+      "volatility": 1.26,
+      "trend": "Đi ngang",
+      "slope": -0.03,
+      "volume_trend": -23.14,
+      "sharpe": -2.32,
+      "data_points": 22
+    },
+    "MBB": {
+      "ticker": "MBB",
+      "close_first": 26.1,
+      "close_last": 24.65,
+      "return_30d": -5.56,
+      "volatility": 1.06,
+      "trend": "Giảm",
+      "slope": -0.0695,
+      "volume_trend": -31.18,
+      "sharpe": -5.25,
+      "data_points": 22
+    },
+    "VNM": {
+      "ticker": "VNM",
+      "close_first": 60.9,
+      "close_last": 58.6,
+      "return_30d": -3.78,
+      "volatility": 0.78,
+      "trend": "Giảm",
+      "slope": -0.1257,
+      "volume_trend": -28.28,
+      "sharpe": -4.86,
+      "data_points": 22
+    },
+    "FPT": {
+      "ticker": "FPT",
+      "close_first": 72.7,
+      "close_last": 74.8,
+      "return_30d": 2.89,
+      "volatility": 2.1,
+      "trend": "Tăng",
+      "slope": 0.0938,
+      "volume_trend": -21.36,
+      "sharpe": 1.38,
+      "data_points": 22
+    },
+    "MSN": {
+      "ticker": "MSN",
+      "close_first": 76.8,
+      "close_last": 73.2,
+      "return_30d": -4.69,
+      "volatility": 1.55,
+      "trend": "Giảm",
+      "slope": -0.2008,
+      "volume_trend": -38.36,
+      "sharpe": -3.02,
+      "data_points": 22
+    },
+    "BID": {
+      "ticker": "BID",
+      "close_first": 40.85,
+      "close_last": 41.7,
+      "return_30d": 2.08,
+      "volatility": 1.98,
+      "trend": "Tăng",
+      "slope": 0.0776,
+      "volume_trend": -46.07,
+      "sharpe": 1.05,
+      "data_points": 22
+    }
+  }
+}
