@@ -781,3 +781,18 @@
 2026-08-14 11:38:06,257 [INFO] MSN: ✓ 1 dòng
 2026-08-14 11:38:10,123 [INFO] BID: ✓ 1 dòng
 2026-08-14 11:38:10,123 [INFO] === Xong: 10/10 tickers | 10 dòng mới ===
+2026-08-17 11:17:10,474 [INFO] Fetch từ 2026-08-14 → 2026-08-16
+2026-08-17 11:17:11,142 [INFO] Failed to extract font properties from /usr/share/fonts/truetype/noto/NotoColorEmoji.ttf: Non-scalable fonts are not supported
+2026-08-17 11:17:11,161 [INFO] generated new fontManager
+2026-08-17 11:17:13,762 [INFO] Device registered: cca56bbe7c6ef2789b16be206e2e3b77 (version 0.0.1)
+2026-08-17 11:17:15,069 [ERROR] VCB: Lỗi — cannot access local variable 'hosting_service' where it is not associated with a value
+2026-08-17 11:17:16,412 [ERROR] VIC: Lỗi — cannot access local variable 'hosting_service' where it is not associated with a value
+2026-08-17 11:17:17,294 [ERROR] VHM: Lỗi — cannot access local variable 'hosting_service' where it is not associated with a value
+2026-08-17 11:17:18,212 [ERROR] HPG: Lỗi — cannot access local variable 'hosting_service' where it is not associated with a value
+2026-08-17 11:17:19,379 [ERROR] TCB: Lỗi — cannot access local variable 'hosting_service' where it is not associated with a value
+2026-08-17 11:17:20,411 [ERROR] MBB: Lỗi — cannot access local variable 'hosting_service' where it is not associated with a value
+2026-08-17 11:17:21,111 [ERROR] VNM: Lỗi — cannot access local variable 'hosting_service' where it is not associated with a value
+2026-08-17 11:17:21,996 [ERROR] FPT: Lỗi — cannot access local variable 'hosting_service' where it is not associated with a value
+2026-08-17 11:17:22,725 [ERROR] MSN: Lỗi — cannot access local variable 'hosting_service' where it is not associated with a value
+2026-08-17 11:17:23,446 [ERROR] BID: Lỗi — cannot access local variable 'hosting_service' where it is not associated with a value
+2026-08-17 11:17:23,446 [INFO] === Xong: 0/10 tickers | 0 dòng mới ===
